@@ -1,0 +1,4 @@
+2026-05-28 22:19:21,921 INFO: Lock acquired (extract_loto_diaria.lock) pid=8332
+2026-05-28 22:19:25,191 INFO: Datos encontrados pero no nuevos sorteos segun Sorteo
+2026-05-28 22:19:25,224 INFO: Análisis guardado en 'loto_analysis_summary.csv' y 'loto_analysis_numbers.csv' (100 números analizados)
+2026-05-28 22:19:25,268 INFO: Lock released (extract_loto_diaria.lock)
